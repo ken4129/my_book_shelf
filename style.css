@@ -1,0 +1,101 @@
+@charset "UTF-8";
+p{
+  font-family:'メイリオ', 'Meiryo', sans-serif;
+}
+
+p.font2{
+  font-family: serif;
+}
+
+h1.font{
+font-family: 'Caveat', cursive;
+}
+h1{
+    color:white;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Suez One', serif;
+}
+
+h1.a{
+    color:#222222;
+}
+body{
+    color:#999999;
+}
+p {
+    text-align:center;
+}
+p.a2{
+    font-family: 'Playfair Display', serif;
+}
+
+p.a3{
+      color:white;
+      font-family: 'Abril Fatface', cursive;
+      font-family: 'Playfair Display', serif;
+      font-family: 'Suez One', serif;
+}
+
+navbar {
+    width: 100%;
+    background-color: #f5f5f5;
+    color: #9fa09e;
+    text-align: center;
+    padding: 10px 0;
+
+ position: absolute;
+    top: 0;
+}
+footer{
+    text-align:center;
+    width: 100%;
+    background-color: #e8ece9;
+    color: #9fa09e;
+    padding: 15px 0;
+
+ position: absolute;/*←絶対位置*/
+ /*下に固定*/
+}
+
+a.b1{
+     color:white;
+      font-family: 'Abril Fatface', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Suez One', serif;
+}
+
+p.a4{
+    color:#696969;
+      font-family: 'Abril Fatface', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Suez One', serif;
+}
+
+body.a5{
+      color:#696969;
+      font-family: 'Abril Fatface', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Suez One', serif;
+}
+h3.a6{
+       color:#696969;
+      font-family: 'Abril Fatface', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Suez One', serif;
+}
+delteFrom{
+    position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width: 80%;
+  height: 3.2rem;
+}
+
+descButton{
+    background-color: #f5f5f5;
+    color:#2cb4ad;
+}
